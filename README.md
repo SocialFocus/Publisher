@@ -1,2 +1,1 @@
-# Publisher
-Repository for SocialFocusPublisher module
+# MSV Template para los microservicios de proyecto final
